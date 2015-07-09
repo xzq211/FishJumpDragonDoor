@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.FishJumpDragonDoor.CSharp.Editor", "UnityVS.FishJumpDragonDoor.CSharp.Editor.csproj", "{35CD104A-308D-A79A-2177-809020191745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.FishJumpDragonDoor.CSharp.Plugins", "UnityVS.FishJumpDragonDoor.CSharp.Plugins.csproj", "{655576DE-55D6-5733-CCA7-65514314FCF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.FishJumpDragonDoor.CSharp", "UnityVS.FishJumpDragonDoor.CSharp.csproj", "{A6816757-7822-870F-DB19-5520030FCECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.FishJumpDragonDoor.CSharp.Editor.Plugins", "UnityVS.FishJumpDragonDoor.CSharp.Editor.Plugins.csproj", "{3FF26227-DD06-6586-E7B9-B722E91ACF42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35CD104A-308D-A79A-2177-809020191745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CD104A-308D-A79A-2177-809020191745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CD104A-308D-A79A-2177-809020191745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CD104A-308D-A79A-2177-809020191745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{655576DE-55D6-5733-CCA7-65514314FCF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655576DE-55D6-5733-CCA7-65514314FCF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655576DE-55D6-5733-CCA7-65514314FCF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655576DE-55D6-5733-CCA7-65514314FCF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6816757-7822-870F-DB19-5520030FCECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6816757-7822-870F-DB19-5520030FCECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6816757-7822-870F-DB19-5520030FCECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6816757-7822-870F-DB19-5520030FCECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF26227-DD06-6586-E7B9-B722E91ACF42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF26227-DD06-6586-E7B9-B722E91ACF42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF26227-DD06-6586-E7B9-B722E91ACF42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF26227-DD06-6586-E7B9-B722E91ACF42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

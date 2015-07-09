@@ -1,0 +1,17 @@
+F:\UnityProjects\5.0\fish\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+F:\UnityProjects\5.0\fish\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+F:\UnityProjects\5.0\fish\Temp\UnityVS_bin\Debug\UnityEditor.dll
+F:\UnityProjects\5.0\fish\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+F:\UnityProjects\5.0\fish\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+F:\UnityProjects\5.0\fish\Temp\UnityVS_bin\Debug\UnityEngine.dll
+F:\UnityProjects\5.0\fish\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+F:\UnityProjects\5.0\fish\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+F:\UnityProjects\5.0\fish\Temp\UnityVS_bin\Debug\UnityEngine.xml
+F:\UnityProjects\5.0\fish\Temp\UnityVS_bin\Debug\UnityEditor.xml
+F:\UnityProjects\5.0\fish\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+F:\UnityProjects\5.0\fish\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+F:\UnityProjects\5.0\fish\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+F:\UnityProjects\5.0\fish\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+F:\UnityProjects\5.0\fish\obj\Debug\UnityVS.fish.CSharp.Plugins.csprojResolveAssemblyReference.cache
+F:\UnityProjects\5.0\fish\obj\Debug\Assembly-CSharp-firstpass.dll
+F:\UnityProjects\5.0\fish\obj\Debug\Assembly-CSharp-firstpass.pdb
